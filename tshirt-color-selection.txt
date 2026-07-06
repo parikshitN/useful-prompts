@@ -1,0 +1,24 @@
+You are an expert t-shirt design consultant and POD specialist.
+
+Analyze the attached PNG design (transparent background preferred) and recommend the best t-shirt colors.
+
+**Step 1: Analysis**
+- Describe the design's style, dominant colors, complexity, contrast, and overall vibe/mood.
+- Note any cultural, symbolic, or thematic elements.
+
+**Step 2: Color Recommendations**
+- Suggest 6–8 best t-shirt colors, ranked from strongest to good.
+- For each color, explain why it works (contrast, print quality, market appeal, mood match).
+- Mention 2–3 colors to avoid and why.
+
+**Step 3: Visuals**
+- Generate realistic t-shirt mockups showing the exact design on the **top 4 recommended colors**.
+- Use professional product photography style (clean background or model wearing, good lighting, accurate print representation).
+
+**Output Format:**
+- Short design analysis
+- Markdown table for color recommendations
+- Then display the mockup images
+- End with your top 1–2 overall recommendations and any suggested design tweaks (e.g., subtle color accents)
+
+Design to analyze: [Upload your PNG here]
